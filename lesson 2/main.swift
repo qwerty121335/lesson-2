@@ -21,3 +21,6 @@ func solveSquare(num: Int){
 solveSquare(num: 6)
 
 
+//priont
+//wel;fjakwpr;fjawr;fjkawled;oj
+
